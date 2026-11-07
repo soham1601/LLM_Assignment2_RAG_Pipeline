@@ -1,0 +1,17 @@
+# secrets
+colab acces token.txt
+*.token
+.env
+
+# large / duplicate artifacts that must not be pushed as normal files
+*.zip
+Assignment2B_RAG_Pipeline_colab.ipynb - Colab.pdf
+
+# python / jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# virtual environments
+venv/
+.venv/
+env/
